@@ -10,6 +10,7 @@ The service is free, and I am always open to suggestions.😊
 
 - Drag and Drop 
 - Animation
-- UserInput 
+- UserInput
+- Local Data Storage (reseting doesn't clear information)
 
 *Produced By: Larry Le*
